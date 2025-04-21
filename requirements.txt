@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+Flask
+opencv-python
+numpy
+torch
+SpeechRecognition
+pyttsx3
+=======
+flask
+pandas
+openpyxl
+torch
+pyttsx3
+pyserial
+scapy
+opencv-python
+pyopengl
+>>>>>>> 500f90a (Initial commit)
